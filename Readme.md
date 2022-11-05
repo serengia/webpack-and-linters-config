@@ -2,7 +2,7 @@
 
 # Project setup with Webpack
 
-> This project contains webpack setup
+> This project contains git workflow for linters and Webpack configuration.
 
 ## Built With
 
